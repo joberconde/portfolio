@@ -1,2 +1,4 @@
 # Welcome to my portfolio!
-Here you can find all coding stuff of my data analyses.
+
+Here you can find all codes of my data analyses.
+If you want to give a feedback or just get in touch, my e-mail is joberconde@gmail.com
