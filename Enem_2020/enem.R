@@ -1,4 +1,4 @@
-#Oi, eu sou o Jober, este código faz parte do meu portifólio em Data Science.
+#Oi, eu sou o Jober, este código faz parte do meu portfólio em Data Science.
 #Você pode conferir a minha análise completa em joberconde.medium.com
 #Meu email é joberconde@gmail.com
 
